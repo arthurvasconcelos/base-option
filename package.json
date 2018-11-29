@@ -30,7 +30,7 @@
     "is-valid-app": "github:arthurvasconcelos/is-valid-app",
     "isobject": "^3.0.0",
     "mixin-deep": "^1.2.0",
-    "option-cache": "^4.0.0",
+    "option-cache": "github:arthurvasconcelos/option-cache",
     "set-value": "^1.0.0"
   },
   "devDependencies": {
